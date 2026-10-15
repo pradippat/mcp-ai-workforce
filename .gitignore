@@ -1,0 +1,6 @@
+# 1. Connect your local folder to the new GitHub repository
+# (Replace 'your-username' with your actual GitHub username!)
+git remote add origin https://github.com/your-username/mcp-ai-workforce.git
+
+# 2. Push your code to GitHub
+git push -u origin main
